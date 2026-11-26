@@ -1,2 +1,2 @@
-# college-demo
-This is my git repository
+# Demo
+This is my git Repository
