@@ -1,3 +1,3 @@
 # Demo
-This is my git Repository
+This is my git Repository.
 Author-SHITAL NAIKAWADI
